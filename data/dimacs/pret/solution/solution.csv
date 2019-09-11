@@ -1,0 +1,9 @@
+problem,solution
+pret150_25.cnf,unsat
+pret150_40.cnf,unsat
+pret150_60.cnf,unsat
+pret150_75.cnf,unsat
+pret60_25.cnf,unsat
+pret60_40.cnf,unsat
+pret60_60.cnf,unsat
+pret60_75.cnf,unsat
